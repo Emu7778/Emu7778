@@ -1,5 +1,7 @@
 ## Hi there 👋
 HI, i'm Emu7778
+
+Check out my fancy, new [protfolio](https://Emu7778.github.io/portfolio)!
 <!--
 **Emu7778/Emu7778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
